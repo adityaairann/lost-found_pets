@@ -468,22 +468,22 @@ const Strings = {
   },
   'newThread': {
     ru: 'Новый тред',
-    en: 'New thread',
+    en: 'Report Pet',
     jp: '新しいスレッド'
   },
   'threadTitle': {
     ru: 'Заголовок треда',
-    en: 'Thread title',
+    en: 'Pet Animal',
     jp: 'スレッドタイトル'
   },
   'content': {
     ru: 'Содержание',
-    en: 'Content',
+    en: 'Brief Description',
     jp: 'コンテンツ'
   },
   'chooseABoard': {
     ru: 'Выберите доску',
-    en: 'Choose a board',
+    en: 'Find/Lost',
     jp: 'ボードを選択してください'
   },
   'select': {
@@ -498,17 +498,17 @@ const Strings = {
   },
   'createThread': {
     ru: 'Создать тред',
-    en: 'Create thread',
+    en: 'Submit',
     jp: 'スレッドを作成する'
   },
   'answerInThread': {
     ru: 'Ответить в тред',
-    en: 'Answer in thread',
+    en: 'Answer',
     jp: 'スレッドに答え'
   },
   'answer': {
     ru: 'Ответить',
-    en: 'Answer',
+    en: 'Submit',
     jp: '答え'
   },
   'editAnswer': {
@@ -548,7 +548,7 @@ const Strings = {
   },
   'createNew': {
     ru: 'Создать тред',
-    en: 'Create new',
+    en: 'New Complaint',
     jp: '新しく作る'
   },
   'messages': {
@@ -618,7 +618,7 @@ const Strings = {
   },
   'attachFile': {
     ru: 'Прикрепить файл',
-    en: 'Attach file',
+    en: 'Attach Photo',
     jp: 'ファイルを添付する'
   },
   'perFile': {
@@ -838,7 +838,7 @@ const Strings = {
   },
   'newFile': {
     ru: 'Новый файл',
-    en: 'New file',
+    en: 'New Complaint',
     jp: '新しいファイル'
   },
   'noFilesYet': {
@@ -868,7 +868,7 @@ const Strings = {
   },
   'fileTitle': {
     ru: 'Заголовок файла',
-    en: 'File title',
+    en: 'Pet Animal',
     jp: 'ファイルタイトル'
   },
   'chooseAFolder': {
@@ -883,7 +883,7 @@ const Strings = {
   },
   'uploadFile': {
     ru: 'Загрузить файл',
-    en: 'Upload file',
+    en: 'Submit',
     jp: 'ファイルをアップロードする'
   },
   'foldersNotLoaded': {
